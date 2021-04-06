@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T13:56:45.100Z" agent="5.0 (Windows)" version="14.5.7" etag="R60merp1L0_XCOXcxQ9Z" type="github"><diagram id="N8FqxBM3AwV_M1qD4G-t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-06T14:41:22.000Z" agent="5.0 (Windows)" etag="X6mcERKqZWx1vdSdGRQ3" version="14.5.7" type="github">
+  <diagram id="N8FqxBM3AwV_M1qD4G-t" name="Ranks">
+    <mxGraphModel dx="2062" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-1" value="&lt;h1&gt;Slavery Social Scale&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-FQO9BfWCpsnRkwmrm7A-2" target="-FQO9BfWCpsnRkwmrm7A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Street Slut&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FQO9BfWCpsnRkwmrm7A-3" target="-FQO9BfWCpsnRkwmrm7A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FQO9BfWCpsnRkwmrm7A-3" target="-FQO9BfWCpsnRkwmrm7A-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Maid Slave&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Slave Agent&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Adventurer Slave&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-9" value="Good Behavior" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="160" as="sourcePoint" />
+            <mxPoint x="470" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-10" value="Insurrection" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="190" as="sourcePoint" />
+            <mxPoint x="150" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-12" value="Comfort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-FQO9BfWCpsnRkwmrm7A-13" value="Harshness" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
